@@ -1,3 +1,13 @@
+<img src="docs/banner.png" alt="SmartyHub" width="100%">
+
+**▶ Live demo: [mohamedbenhmida-smartyhub.web.app](https://mohamedbenhmida-smartyhub.web.app)**
+
+> The web demo shows the interface only: Bluetooth / device control needs the Android app and the hardware.
+
+<p align="center">
+  <img src="docs/screenshots/smartyhub_desktop.png" alt="SmartyHub on desktop" width="70%">
+  <img src="docs/screenshots/smartyhub_mobile.png" alt="SmartyHub on mobile" width="24%">
+</p>
 
 ## 🏡 SmartyHub - DIY Smart Plugs Control
 
@@ -17,7 +27,7 @@ SmartyHub is a smart home control system that allows you to manage DIY smart plu
 # 🛠️ How to Run
 	1.	Clone the Repository:
 
-git clone https://github.com/mohamedbnhmida/SmartyHub.git  
+git clone https://github.com/mohamedbnhmida/SmartyHub .git  
 cd smartyhub  
 
 
@@ -70,5 +80,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 🚀 About
 
 SmartyHub is a comprehensive, flexible solution for controlling smart plugs in a DIY home automation system. With support for Bluetooth, Wi-Fi, OTA updates, and Arduino, it’s a perfect project for both hobbyists and developers looking to build custom smart home solutions. Contributions and feedback are welcome!
-
-Let me know if you need any changes or additional details! 😊
+ 
